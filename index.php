@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 	<body>
-		<img src = "robles.PNG"/>
+		<img src = "activity1.png"/>
 	</body>
 		
 </html>
